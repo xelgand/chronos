@@ -1,4 +1,4 @@
-FROM python:3.7-buster
+FROM python:3.8-bullseye
 LABEL author="Simon Sorensen (hello@simse.io)"
 
 # Set timezone to Greenwich Mean Time

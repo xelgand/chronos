@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+aiocontextvars = "==0.2.2"
+alembic = "==1.4.2"
+aniso8601 = "==8.0.0"
+appdirs = "==1.4.4"
+apscheduler = "==3.6.3"
+attrs = "==19.3.0"
+autobahn = "==20.6.1"
+automat = "==20.2.0"
+black = "==19.10b0"
+cached-property = "==1.5.1"
+cffi = "==1.14.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
